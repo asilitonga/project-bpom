@@ -1,0 +1,26 @@
+header belum responsive :
+- tabel index
+- tabel print
+- tabel import (udah tapi lebih bagus diperbarui headernya)
+
+minimal panjang dan lebar layar hp sekitar :
+360 lebar x 640 tinggi
+
+kenapa downloadnya 1 per 1, alasan :
+karena data dokumen 1 pegawai baik itu sk, skp dll,
+lebih detail, yang akan membuat si pengguna tau mana file yang mau di download dan mana file yang mau dia rubah
+
+misalnya si pengguna mau ganti dokumen lamanya yaitu sk,
+alangkah baiknya si pengguna mendownload dulu file lama nya yaitu sk di menu download,
+setelah data lamanya di download, maka si pengguna tadi barulah mengganti filenya
+
+maka dari itu, tombol downloadnya dibuat 1 per 1 untuk mengantisipasi pergantian file nanti.
+
+kalau misalnya 1 pegawai datanya di download sekaligus pastilah berbentuk esktensi zip atau rar (dimana semua file pegawai baik sk,skp dll
+dijadikan dalam 1 folder zip/rar),
+padahal disaat itu kita ingin download file sk saja untuk keperluan data, 
+pastilah memakan waktu,
+dimana kta harus mempunyai aplikasi ekstrak zip/rar untuk melihat filenya.
+
+maka dari itu,
+solusi untuk tombol download saya buat 1 per 1

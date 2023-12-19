@@ -1,0 +1,33 @@
+section{
+	padding: 100px;
+	box-sizing: border-box;
+}
+section h1{
+	margin: 0;
+	padding: 0;
+	font-size: 2em;
+}
+section p{
+	font-size: 1em;
+	text-align: justify;
+}
+.scroll{
+	position: fixed;
+	left: 50%;
+	right: 0;
+	width: 80px;
+	height: 80px;
+	display: block;
+	background: #000;
+	text-align: center;
+	line-height: 80px;
+	color: #fff;
+	font-size: 18px;
+	text-decoration: none;
+	z-index: 10000;
+}
+
+.scroll.bottom{
+	left: calc(10% - 140px);
+	background: #f53d68;
+}

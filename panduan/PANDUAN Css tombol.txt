@@ -1,0 +1,14 @@
+
+
+<a class="button" href="#">Button</a>
+<a class="button red" href="#">red Button</a>
+<a class="button orange" href="#">orange Button</a>
+<a class="button green" href="#">green Button</a>
+<a class="button purple" href="#">purple Button</a>
+<a class="button blue" href="#">blue Button</a>
+<a class="button mint" href="#">mint Button</a>
+<a class="button yellow" href="#">yellow Button</a> <a class="button aqua" href="#">aqua Button</a>
+<a class="button grey" href="#">grey Button</a>
+<a class="button pink" href="#">pink Button</a> <a class="button white" href="#">white Button</a>
+<a class="button dark-grey" href="#">dark-grey Button</a>
+
